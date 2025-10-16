@@ -1,0 +1,30 @@
+body.dark-mode {
+  background-color: #333;
+  color: #f1f1f1;
+}
+
+body.dark-mode .container {
+  background: #444;
+}
+
+body.dark-mode a {
+  color: #7FDBFF;
+}
+
+body.dark-mode h2 {
+  color: #7FDBFF;
+}
+
+body.dark-mode .social-media a {
+  color: #f1f1f1;
+}
+
+body.dark-mode .social-media a:hover {
+  color: #7FDBFF;
+}
+
+body.dark-mode #theme-toggle {
+  background: #f1f1f1;
+  border-radius: 80%;
+  padding: 4px;
+}
