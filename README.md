@@ -20,6 +20,15 @@ Este es un proyecto de un currículum web de una sola página para Marvin Zúnig
 *   `sections/`: Contiene los archivos HTML para cada sección del CV (perfil, experiencia, educación, etc.).
 *   `media/`: Contiene los iconos para el conmutador de tema.
 
+## Imagenes.
+<img width="1118" height="751" alt="ResumeWeb" src="https://github.com/user-attachments/assets/333c3f8c-6d0e-453e-8ab5-46d2fcbc521b" />
+
+<img width="1120" height="754" alt="ResumeWeb2" src="https://github.com/user-attachments/assets/c60fa8e7-d77b-4c93-9b8b-8473b6636b97" />
+
+
+
+
+
 ## Uso
 
 Para ver el sitio web, simplemente abra el archivo `index.html` en su navegador web preferido.
